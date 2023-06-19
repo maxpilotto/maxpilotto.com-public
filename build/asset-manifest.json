@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c1de2ffb.css",
+    "main.js": "./static/js/main.6ec5835f.js",
+    "static/media/Outfit-Regular.ttf": "./static/media/Outfit-Regular.1b689533f3d80e212743.ttf",
+    "index.html": "./index.html",
+    "main.c1de2ffb.css.map": "./static/css/main.c1de2ffb.css.map",
+    "main.6ec5835f.js.map": "./static/js/main.6ec5835f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1de2ffb.css",
+    "static/js/main.6ec5835f.js"
+  ]
+}
